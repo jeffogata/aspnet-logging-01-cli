@@ -1,4 +1,4 @@
-# aspnet-configuration-05-cli
+# aspnet-logging-01-cli
 
 An example of logging in ASP.NET 5, accompanying the [ASP.NET 5 Logging](https://www.jeffogata.com/asp-net-5-logging/) blog post.
 
